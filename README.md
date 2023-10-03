@@ -11,7 +11,7 @@
 
 ### :woman_technologist: About Me :
 
-- :telescope: I’m working in data engineering and advertising tech.
+- :telescope: I'm currently free not working, so happy to work on side projects
 
 - :seedling: I love exploring technical and security analysis for mobile analytics
 
