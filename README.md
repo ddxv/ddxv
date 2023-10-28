@@ -1,4 +1,9 @@
-<div id="header" align="center">
+
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ddxv&theme=dark&background=000000)](https://git.io/streak-stats)
+
+### :man_technologist: About Me :
   <div id="badges">
     <a href="https://linkedin.com/in/jamesoclaire">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -6,13 +11,6 @@
       <img src="https://komarev.com/ghpvc/?username=ddxv&style=flat-square&color=blue" alt=""/>
 
   </div>
-</div>
-
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ddxv&theme=dark&background=000000)](https://git.io/streak-stats)
-
-### :man_technologist: About Me :
 
 - :telescope: I'm currently free not working, so happy to work on side projects
 
