@@ -9,6 +9,10 @@
 </div>
 ---
 
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ddxv&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ### :man_technologist: About Me :
 
 - :telescope: I'm currently free not working, so happy to work on side projects
@@ -37,8 +41,6 @@
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ddxv&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddxv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
