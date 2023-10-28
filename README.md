@@ -3,24 +3,6 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ddxv&theme=dark&background=000000)](https://git.io/streak-stats)
 
-### :man_technologist: About Me :
-  <div id="badges">
-    <a href="https://linkedin.com/in/jamesoclaire">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-      <img src="https://komarev.com/ghpvc/?username=ddxv&style=flat-square&color=blue" alt=""/>
-
-  </div>
-
-- :telescope: I'm currently free not working, so happy to work on side projects
-
-- :seedling: I love exploring technical and security analysis for mobile analytics
-
-- :zap: In my free time, I build Python and Android apps
-
-- :mailbox: Please feel free to reach out. You can email me at my full name (no apostrophe) @gmail or [Please feel free to reach out on LinkedIn](https://linkedin.com/in/jamesoclaire)
-
----
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -41,6 +23,26 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddxv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+### :man_technologist: About Me :
+  <div id="badges">
+    <a href="https://linkedin.com/in/jamesoclaire">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+      <img src="https://komarev.com/ghpvc/?username=ddxv&style=flat-square&color=blue" alt=""/>
+
+  </div>
+
+- :telescope: I'm currently free not working, so happy to work on side projects
+
+- :seedling: I love exploring technical and security analysis for mobile analytics
+
+- :zap: In my free time, I build Python and Android apps
+
+- :mailbox: Please feel free to reach out. You can email me at my full name (no apostrophe) @gmail or [Please feel free to reach out on LinkedIn](https://linkedin.com/in/jamesoclaire)
+
+---
 ---
 
 ### :writing_hand: Blog Posts :
