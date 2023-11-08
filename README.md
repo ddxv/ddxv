@@ -47,6 +47,8 @@
 
 ### :writing_hand: Blog Posts :
 [AppGoblin: Free App Stats & Info Dashboard (11-2023)](https://jamesoclaire.com/2023/11/07/appgoblin-free-app-stats-info/)
+
 [Man In The Middle Attack Your Phone: Sniff mobile traffic (9-2023)](https://jamesoclaire.com/2023/09/08/how-to-see-traffic-from-your-android-device/)
+
 [Can You Use AI to Generate Marketing Creatives? (10-2022)](https://jamesoclaire.com/2022/10/03/generating-ads-with-stable-diffusion/)
 
