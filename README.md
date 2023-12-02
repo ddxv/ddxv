@@ -1,3 +1,24 @@
+# Hello and Welcome
+
+My name is James O'Claire. I'm passionate about data, advertising and open source software. I split my time between San Francisco & Taipei, and am always happy to meet up with new people.
+
+- :telescope: I'm currently free not working, so happy to work on side projects
+
+- :seedling: I love exploring technical and security analysis for mobile analytics
+
+- :zap: In my free time, I build Python and Android apps
+
+- :mailbox: Please feel free to reach out. You can email me at my full name (no apostrophe) @gmail or [Please feel free to reach out on LinkedIn](https://linkedin.com/in/jamesoclaire)
+
+---
+---
+
+### :writing_hand: Blog Posts :
+[AppGoblin: Free App Stats & Info Dashboard (11-2023)](https://jamesoclaire.com/2023/11/07/appgoblin-free-app-stats-info/)
+
+[Man In The Middle Attack Your Phone: Sniff mobile traffic (9-2023)](https://jamesoclaire.com/2023/09/08/how-to-see-traffic-from-your-android-device/)
+
+[Can You Use AI to Generate Marketing Creatives? (10-2022)](https://jamesoclaire.com/2022/10/03/generating-ads-with-stable-diffusion/)
 
 
 ### :fire: My Stats :
@@ -34,21 +55,4 @@
 
   </div>
 
-- :telescope: I'm currently free not working, so happy to work on side projects
-
-- :seedling: I love exploring technical and security analysis for mobile analytics
-
-- :zap: In my free time, I build Python and Android apps
-
-- :mailbox: Please feel free to reach out. You can email me at my full name (no apostrophe) @gmail or [Please feel free to reach out on LinkedIn](https://linkedin.com/in/jamesoclaire)
-
----
----
-
-### :writing_hand: Blog Posts :
-[AppGoblin: Free App Stats & Info Dashboard (11-2023)](https://jamesoclaire.com/2023/11/07/appgoblin-free-app-stats-info/)
-
-[Man In The Middle Attack Your Phone: Sniff mobile traffic (9-2023)](https://jamesoclaire.com/2023/09/08/how-to-see-traffic-from-your-android-device/)
-
-[Can You Use AI to Generate Marketing Creatives? (10-2022)](https://jamesoclaire.com/2022/10/03/generating-ads-with-stable-diffusion/)
 
