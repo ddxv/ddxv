@@ -47,12 +47,14 @@ My name is James O'Claire. I'm passionate about data, advertising and open sourc
 
 
 ### :man_technologist: About Me
+
   <div id="badges">
     <a href="https://linkedin.com/in/jamesoclaire">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
       <img src="https://komarev.com/ghpvc/?username=ddxv&style=flat-square&color=blue" alt=""/>
   </div>
+  
 [My Blog](https://jamesoclaire.com/)
 [My Projects](https://jamesoclaire.com/portfolio)
 
