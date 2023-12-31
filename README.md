@@ -1,4 +1,4 @@
-# Hello and Welcome
+# Hello and Welcome to my GitHub
 
 My name is James O'Claire. I'm passionate about data, advertising and open source software. I split my time between San Francisco & Taipei, and am always happy to meet up with new people.
 
