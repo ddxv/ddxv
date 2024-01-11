@@ -8,7 +8,8 @@ My name is James O'Claire. I'm passionate about data, advertising and open sourc
 
 - :zap: In my free time, I build Python and Android apps
 
-- :mailbox: Please feel free to reach out. You can email me at my full name (no apostrophe) @gmail or [Please feel free to reach out on LinkedIn](https://linkedin.com/in/jamesoclaire)
+- :mailbox: Please feel free to reach out. You can email me at my full name (no apostrophe) @gmail.com
+-   or [Please feel free to reach out on LinkedIn](https://linkedin.com/in/jamesoclaire)
 
 
 
