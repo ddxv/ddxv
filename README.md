@@ -40,10 +40,11 @@ My name is James O'Claire. I'm passionate about data, advertising and open sourc
 
 </div>
 
----
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddxv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
 
 
 
