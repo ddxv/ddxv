@@ -12,6 +12,8 @@ My name is James O'Claire. I'm passionate about data, advertising and open sourc
 -   or [Please feel free to reach out on LinkedIn](https://linkedin.com/in/jamesoclaire)
 
 
+---
+
 
 ### :writing_hand: Blog Posts
 [AppGoblin: Free App Stats & Info Dashboard (11-2023)](https://jamesoclaire.com/2023/11/07/appgoblin-free-app-stats-info/)
