@@ -1,6 +1,6 @@
 # Hello and Welcome to my GitHub
 
-My name is James O'Claire. I'm passionate about data, advertising and open source software. I split my time between San Francisco & Taipei, and am always happy to meet up with new people.
+My name is James O'Claire. I'm passionate about data, advertising and open source software. I split my time between San Francisco, Taipei and inland Mendocino County. I always happy to meet up with new people so feel free to say hi.
 
 - :telescope: I'm currently free not working, so happy to work on side projects
 
