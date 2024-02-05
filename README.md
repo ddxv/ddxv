@@ -16,6 +16,9 @@ My name is James O'Claire. I'm passionate about data, advertising and open sourc
 
 
 ### :writing_hand: Blog Posts
+
+[SSL Unpinning TikTok: See what data TikTok sends before the Terms of Service is Agreed (02-2024)](https://jamesoclaire.com/2024/02/02/what-data-does-tiktok-send-out-before-terms-of-service/}
+
 [AppGoblin: Free App Stats & Info Dashboard (11-2023)](https://jamesoclaire.com/2023/11/07/appgoblin-free-app-stats-info/)
 
 [Man In The Middle Attack Your Phone: Sniff mobile traffic (9-2023)](https://jamesoclaire.com/2023/09/08/how-to-see-traffic-from-your-android-device/)
