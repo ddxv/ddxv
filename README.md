@@ -17,13 +17,13 @@ I split my time between San Francisco, Taipei and inland Mendocino County. I alw
 
 ### :writing_hand: Blog Posts
 
-[SSL Unpinning TikTok: See what data TikTok sends before the Terms of Service is Agreed (02-2024)](https://jamesoclaire.com/2024/02/02/what-data-does-tiktok-send-out-before-terms-of-service/)
+[(02-2024) SSL Unpinning TikTok: See what data TikTok sends before the Terms of Service is Agreed](https://jamesoclaire.com/2024/02/02/what-data-does-tiktok-send-out-before-terms-of-service/)
 
-[AppGoblin: Free App Stats & Info Dashboard (11-2023)](https://jamesoclaire.com/2023/11/07/appgoblin-free-app-stats-info/)
+[(11-2023) AppGoblin: Free App Stats & Info Dashboard](https://jamesoclaire.com/2023/11/07/appgoblin-free-app-stats-info/)
 
-[Man In The Middle Attack Your Phone: Sniff mobile traffic (9-2023)](https://jamesoclaire.com/2023/09/08/how-to-see-traffic-from-your-android-device/)
+[(9-2023) Man In The Middle Attack Your Phone: Sniff mobile traffic](https://jamesoclaire.com/2023/09/08/how-to-see-traffic-from-your-android-device/)
 
-[Can You Use AI to Generate Marketing Creatives? (10-2022)](https://jamesoclaire.com/2022/10/03/generating-ads-with-stable-diffusion/)
+[(10-2022) Can You Use AI to Generate Marketing Creatives?](https://jamesoclaire.com/2022/10/03/generating-ads-with-stable-diffusion/)
 
 ---
 
