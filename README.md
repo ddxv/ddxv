@@ -1,10 +1,10 @@
 # Hello and Welcome to my GitHub
 
-I split my time between San Francisco, Taipei and inland Mendocino County. I always enjoy talking with new people so feel free to say hi.
+I split my time between San Francisco, Taipei TW and inland Mendocino County. I always enjoy talking with new people so feel free to say hi.
 
-- :telescope: I recently left a long run at my startup and am now exploring opportunities.
+- :telescope: I recently left a long run at my startup and am exploring new opportunities.
 
-- :seedling: I love exploring technical and security analysis for mobile analytics
+- :seedling: I love advertising, security, and mobile analytics
 
 - :zap: In my free time, I build Python and Android apps
 
