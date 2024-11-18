@@ -17,6 +17,8 @@ I split my time between San Francisco, Taipei, Taiwan and inland Mendocino Count
 
 ### :writing_hand: Blog Posts
 
+(2024-10) [AppGoblin New Features: Mobile Ecosystem Stats](https://jamesoclaire.com/2024/11/18/appgoblin-new-features-mobile-stats-and-breakdowns/)
+
 (2024-03) [Decompiled APKs: See which MMPs and Networks Apps and Games are Using](https://jamesoclaire.com/2024/03/25/see-which-mmps-and-networks-apps-and-games-are-using/)
 
 (2024-02) [SSL Unpinning TikTok: See what data TikTok sends before the Terms of Service is Agreed](https://jamesoclaire.com/2024/02/02/what-data-does-tiktok-send-out-before-terms-of-service/)
