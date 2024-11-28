@@ -46,7 +46,7 @@ I split my time between San Francisco, Taipei, Taiwan and inland Mendocino Count
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddxv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddxv&layout=compact&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
