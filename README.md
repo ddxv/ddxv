@@ -32,8 +32,7 @@ I split my time between San Francisco, Taipei, Taiwan and inland Mendocino Count
 ---
 
 ### :fire: My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ddxv&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=ddxv&theme=catppuccin-mocha)](https://git.io/streak-stats)
 
 ### :hammer_and_wrench: Languages and Tools
 <div>
