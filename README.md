@@ -2,18 +2,6 @@
 
 I split my time between San Francisco, Taipei, Taiwan and inland Mendocino County. I always enjoy talking with new people so feel free to say hi.
 
-- :telescope: I'm actively looking for new opportunities.
-
-- :seedling: I love advertising, security, and mobile analytics
-
-- :zap: I like to build.
-
-- :mailbox: Please feel free to reach out. You can email me at my full name (no apostrophe) @gmail.com
-  - [Message me on Discord](https://discord.gg/R4xEpfTU)
-  - Signal/WhatsApp/Line +886 0903346277
-  - [Please feel free to reach out on LinkedIn](https://linkedin.com/in/jamesoclaire)
-
-
 ---
 
 
@@ -68,8 +56,8 @@ I split my time between San Francisco, Taipei, Taiwan and inland Mendocino Count
 [My Projects](https://jamesoclaire.com/portfolio)
 
 ## Contact
-- :mailbox: Please feel free to reach out. You can email me at my full name (no apostrophe) @gmail.com
+- :mailbox: Feel free to reach out. You can email me at my full name (no apostrophe) @gmail.com
   - [Message me on Discord](https://discord.gg/R4xEpfTU)
   - Signal/WhatsApp/Line +886 0903346277
-  - [Please feel free to reach out on LinkedIn](https://linkedin.com/in/jamesoclaire)
+  - [LinkedIn](https://linkedin.com/in/jamesoclaire)
 
