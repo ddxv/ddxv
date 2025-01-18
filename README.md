@@ -47,7 +47,8 @@ I split my time between San Francisco, Taipei, Taiwan and inland Mendocino Count
 
 
 ## :mailbox: Contact
--  Feel free to reach out. You can email me at my full name (no apostrophe) @gmail.com
+Feel free to reach out. 
+  - Email: My full name (no apostrophe) @gmail.com
   - [Message me on Discord](https://discord.gg/R4xEpfTU)
   - Signal/WhatsApp/Line +886 0903346277
   - [LinkedIn](https://linkedin.com/in/jamesoclaire)
