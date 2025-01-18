@@ -5,7 +5,7 @@ I split my time between San Francisco, Taipei, Taiwan and inland Mendocino Count
 ---
 
 
-### :writing_hand: Blog Posts
+## :writing_hand: Blog Posts
 
 (2024-10) [AppGoblin New Features: Mobile Ecosystem Stats](https://jamesoclaire.com/2024/11/18/appgoblin-new-features-mobile-stats-and-breakdowns/)
 
@@ -19,9 +19,12 @@ I split my time between San Francisco, Taipei, Taiwan and inland Mendocino Count
 
 (2022-10) [Can You Use AI to Generate Marketing Creatives?](https://jamesoclaire.com/2022/10/03/generating-ads-with-stable-diffusion/)
 
+[My Blog](https://jamesoclaire.com/)
+[My Projects](https://jamesoclaire.com/portfolio)
+
 ---
 
-### :fire: My Stats
+## :fire: My Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=ddxv&theme=catppuccin-mocha)](https://git.io/streak-stats)
 
 ### :hammer_and_wrench: Languages and Tools
@@ -43,20 +46,8 @@ I split my time between San Francisco, Taipei, Taiwan and inland Mendocino Count
 
 
 
-### :man_technologist: About Me
-
-  <div id="badges">
-    <a href="https://linkedin.com/in/jamesoclaire">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-      <img src="https://komarev.com/ghpvc/?username=ddxv&style=flat-square&color=blue" alt=""/>
-  </div>
-
-[My Blog](https://jamesoclaire.com/)
-[My Projects](https://jamesoclaire.com/portfolio)
-
-## Contact
-- :mailbox: Feel free to reach out. You can email me at my full name (no apostrophe) @gmail.com
+## :mailbox: Contact
+-  Feel free to reach out. You can email me at my full name (no apostrophe) @gmail.com
   - [Message me on Discord](https://discord.gg/R4xEpfTU)
   - Signal/WhatsApp/Line +886 0903346277
   - [LinkedIn](https://linkedin.com/in/jamesoclaire)
