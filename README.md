@@ -7,6 +7,8 @@ I split my time between San Francisco, Taipei, Taiwan and inland Mendocino Count
 
 ## :writing_hand: Blog Posts
 
+(2025-02) [Decompiled 30k Android & iOS Apps to find Top Trackers, SDKs and frameworks](https://jamesoclaire.com/2025/02/20/mobile-sdk-showdown-unveiling-2025s-most-popular-frameworks-powering-30k-apps/)
+
 (2024-10) [AppGoblin New Features: Mobile Ecosystem Stats](https://jamesoclaire.com/2024/11/18/appgoblin-new-features-mobile-stats-and-breakdowns/)
 
 (2024-03) [Decompiled APKs: See which MMPs and Networks Apps and Games are Using](https://jamesoclaire.com/2024/03/25/see-which-mmps-and-networks-apps-and-games-are-using/)
