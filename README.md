@@ -4,6 +4,11 @@ I split my time between San Francisco, Taipei, Taiwan and inland Mendocino Count
 
 ---
 
+## 👷 Projects
+
+[OpenAttribution free open source MMP](https://openattribution.dev) OpenAttribution gives mobile app developers the tools of an MMP to do their own ad tracking and analytics without the data ever leaving their servers.
+[AppGoblin free app marketing tools](https://appgoblin.info) AppGoblin is various app analysis, ASO, marketing and SDK analysis available free without need to setup an account. 
+
 
 ## :writing_hand: Blog Posts
 
@@ -22,7 +27,6 @@ I split my time between San Francisco, Taipei, Taiwan and inland Mendocino Count
 (2022-10) [Can You Use AI to Generate Marketing Creatives?](https://jamesoclaire.com/2022/10/03/generating-ads-with-stable-diffusion/)
 
 [My Blog](https://jamesoclaire.com/)
-[My Projects](https://jamesoclaire.com/portfolio)
 
 ---
 
