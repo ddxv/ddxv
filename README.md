@@ -7,7 +7,7 @@ I split my time between San Francisco, Taipei, Taiwan and inland Mendocino Count
 
 ## :writing_hand: Blog Posts
 
-(2025-04) [2025 How to Sniff Android HTTPS Traffic with Waydroid & mitm-proxy] https://jamesoclaire.com/2025/04/14/2025-how-to-sniff-android-https-traffic-with-waydroid-mitm-proxy/
+(2025-04) [2025 How to Sniff Android HTTPS Traffic with Waydroid & mitm-proxy](https://jamesoclaire.com/2025/04/14/2025-how-to-sniff-android-https-traffic-with-waydroid-mitm-proxy/)
 
 (2025-02) [Decompiled 30k Android & iOS Apps to find Top Trackers, SDKs and frameworks](https://jamesoclaire.com/2025/02/20/mobile-sdk-showdown-unveiling-2025s-most-popular-frameworks-powering-30k-apps/)
 
