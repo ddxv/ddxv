@@ -8,7 +8,8 @@ I split my time between San Francisco, Taipei, Taiwan and inland Mendocino Count
 
 [OpenAttribution free open source MMP](https://openattribution.dev) OpenAttribution gives mobile app developers the tools of an MMP to do their own ad tracking and analytics without the data ever leaving their servers.
 
-[AppGoblin free app marketing tools](https://appgoblin.info) AppGoblin free app analytics, ASO, marketing and SDK analysis and advertising intelligence. 
+[AppGoblin free app marketing tools](https://appgoblin.info/) AppGoblin free app analytics, ASO, marketing and SDK analysis and advertising intelligence. Includes free revenue estimates, MAU, app-ads.txt and more. 
+[AppGoblin paid B2B intelligence](https://appgoblin.info/companies/) see which apps use which SDKs and which companies are gaining or losing apps. 
 
 
 ## :writing_hand: Blog Posts
