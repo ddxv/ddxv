@@ -4,17 +4,17 @@ I split my time between San Francisco, Taipei, Taiwan and inland Mendocino Count
 
 ---
 
-## 👷 Projects
-
-[OpenAttribution free open source MMP](https://openattribution.dev) OpenAttribution gives mobile app developers the tools of an MMP to do their own ad tracking and analytics without the data ever leaving their servers.
+## 👷 Work
 
 [AppGoblin free app marketing tools](https://appgoblin.info/) AppGoblin free app analytics, ASO, marketing and SDK analysis and advertising intelligence. Includes free revenue estimates, MAU, app-ads.txt and more. 
 [AppGoblin paid B2B intelligence](https://appgoblin.info/companies/) see which apps use which SDKs and which companies are gaining or losing apps. 
 
+[OpenAttribution free open source MMP](https://openattribution.dev) OpenAttribution gives mobile app developers the tools of an MMP to do their own ad tracking and analytics without the data ever leaving their servers.
+
 
 ## :writing_hand: Blog Posts
 
-(2026-01) [Top Mobile SDKs of 2025: Which B2B Mobile app companies are growing?](https://appgoblin.info/reports/mobile-apps-growth-sdks-2025)
+(2026-01) [Top Mobile SDKs of 2026: Which B2B Mobile app companies are growing and which are losing clients?](https://jamesoclaire.com/2026/05/19/appgoblin-app-ecosystem-report-2026-q1/)
 
 (2025-04) [2025 How to Sniff Android HTTPS Traffic with Waydroid & mitm-proxy](https://jamesoclaire.com/2025/04/14/2025-how-to-sniff-android-https-traffic-with-waydroid-mitm-proxy/)
 
